@@ -1,4 +1,4 @@
-#pip install gradio
+pip install gradio
 import gradio as gr
 import tensorflow as tf
 import matplotlib.pyplot as plt
